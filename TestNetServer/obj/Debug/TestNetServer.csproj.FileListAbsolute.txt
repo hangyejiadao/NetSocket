@@ -1,0 +1,12 @@
+E:\NetSocket\TestNetServer\bin\Debug\TestNetServer.exe.config
+E:\NetSocket\TestNetServer\bin\Debug\TestNetServer.exe
+E:\NetSocket\TestNetServer\bin\Debug\TestNetServer.pdb
+E:\NetSocket\TestNetServer\bin\Debug\NetSocket.dll
+E:\NetSocket\TestNetServer\bin\Debug\NetSocket.pdb
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.csprojResolveAssemblyReference.cache
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.Server.resources
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.Properties.Resources.resources
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.csproj.GenerateResource.Cache
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.csproj.CoreCompileInputs.cache
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.exe
+E:\NetSocket\TestNetServer\obj\Debug\TestNetServer.pdb
